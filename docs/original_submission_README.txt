@@ -1,4 +1,4 @@
-Assignment 6 submission - top-level README(Definetely)
+Assignment 6 submission - top-level README
 =========================================
 
 This submission contains the following Assignment 6 packages created or extended for the
